@@ -1,0 +1,7 @@
+D:\Visual Studio Codes\LanguagePredict1\LanguagePredict1\bin\Debug\LanguagePredict1.exe
+D:\Visual Studio Codes\LanguagePredict1\LanguagePredict1\bin\Debug\LanguagePredict1.pdb
+D:\Visual Studio Codes\LanguagePredict1\LanguagePredict1\obj\x86\Debug\LanguagePredict1.Form1.resources
+D:\Visual Studio Codes\LanguagePredict1\LanguagePredict1\obj\x86\Debug\LanguagePredict1.Properties.Resources.resources
+D:\Visual Studio Codes\LanguagePredict1\LanguagePredict1\obj\x86\Debug\LanguagePredict1.csproj.GenerateResource.Cache
+D:\Visual Studio Codes\LanguagePredict1\LanguagePredict1\obj\x86\Debug\LanguagePredict1.exe
+D:\Visual Studio Codes\LanguagePredict1\LanguagePredict1\obj\x86\Debug\LanguagePredict1.pdb
