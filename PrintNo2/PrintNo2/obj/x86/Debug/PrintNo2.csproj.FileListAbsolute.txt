@@ -1,0 +1,7 @@
+D:\Visual Studio Codes\PrintNo2\PrintNo2\bin\Debug\PrintNo2.exe
+D:\Visual Studio Codes\PrintNo2\PrintNo2\bin\Debug\PrintNo2.pdb
+D:\Visual Studio Codes\PrintNo2\PrintNo2\obj\x86\Debug\PrintNo2.Form1.resources
+D:\Visual Studio Codes\PrintNo2\PrintNo2\obj\x86\Debug\PrintNo2.Properties.Resources.resources
+D:\Visual Studio Codes\PrintNo2\PrintNo2\obj\x86\Debug\PrintNo2.csproj.GenerateResource.Cache
+D:\Visual Studio Codes\PrintNo2\PrintNo2\obj\x86\Debug\PrintNo2.exe
+D:\Visual Studio Codes\PrintNo2\PrintNo2\obj\x86\Debug\PrintNo2.pdb
