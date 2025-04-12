@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmaticCalculator", "ArithmaticCalculator\ArithmaticCalculator.csproj", "{EC9C8C51-D56F-4A13-85D9-205A5F149ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9C8C51-D56F-4A13-85D9-205A5F149ECE}.Debug|x86.ActiveCfg = Debug|x86
+		{EC9C8C51-D56F-4A13-85D9-205A5F149ECE}.Debug|x86.Build.0 = Debug|x86
+		{EC9C8C51-D56F-4A13-85D9-205A5F149ECE}.Release|x86.ActiveCfg = Release|x86
+		{EC9C8C51-D56F-4A13-85D9-205A5F149ECE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

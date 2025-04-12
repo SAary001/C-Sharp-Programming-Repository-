@@ -1,0 +1,8 @@
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\bin\Debug\ArithmaticCalculator.exe
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\bin\Debug\ArithmaticCalculator.pdb
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.Form1.resources
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.Properties.Resources.resources
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.csproj.GenerateResource.Cache
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.exe
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.pdb
+D:\Visual Studio Codes\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.csprojResolveAssemblyReference.cache
