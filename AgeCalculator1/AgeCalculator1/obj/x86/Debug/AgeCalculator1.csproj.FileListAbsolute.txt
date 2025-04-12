@@ -1,0 +1,8 @@
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\bin\Debug\AgeCalculator1.exe
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\bin\Debug\AgeCalculator1.pdb
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\obj\x86\Debug\AgeCalculator1.Form1.resources
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\obj\x86\Debug\AgeCalculator1.Properties.Resources.resources
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\obj\x86\Debug\AgeCalculator1.csproj.GenerateResource.Cache
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\obj\x86\Debug\AgeCalculator1.exe
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\obj\x86\Debug\AgeCalculator1.pdb
+D:\Visual Studio Codes\AgeCalculator1\AgeCalculator1\obj\x86\Debug\AgeCalculator1.csprojResolveAssemblyReference.cache
