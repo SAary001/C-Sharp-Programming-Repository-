@@ -55,7 +55,127 @@ namespace MarksCalculator1
             textBox10.Clear();
             textBox11.Clear();
         }
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(char.IsControl(e.KeyChar)) && (char.IsDigit(e.KeyChar)))
+            {
+                e.Handled = true;
+                MessageBox.Show("Invalid Input");
+               
+            }
 
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+           
+        }
+
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(char.IsControl(e.KeyChar)) && (char.IsDigit(e.KeyChar)))
+            {
+                e.Handled = true;
+                MessageBox.Show("Invalid Input");
+                
+            }
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+        }
+
+        private void textBox3_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(char.IsControl(e.KeyChar)) && !(char.IsDigit(e.KeyChar)))
+            {
+                e.Handled = true;
+                MessageBox.Show("Invalid Input");
+
+            }
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+        }
+
+        private void textBox4_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(char.IsControl(e.KeyChar)) && !(char.IsDigit(e.KeyChar)))
+            {
+                e.Handled = true;
+                MessageBox.Show("Invalid Input");
+
+            }
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+        }
+
+        private void textBox1_Validating(object sender, CancelEventArgs e)
+        {
+            if (String.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("invalid input");
+                e.Cancel = true;
+
+            }
+        }
+
+        private void textBox2_Validating(object sender, CancelEventArgs e)
+        {
+            if (String.IsNullOrWhiteSpace(textBox2.Text))
+            {
+                MessageBox.Show("invalid input");
+                e.Cancel = true;
+
+            }
+        }
+
+        private void textBox3_Validating(object sender, CancelEventArgs e)
+        {
+            if (String.IsNullOrWhiteSpace(textBox3.Text))
+            {
+                MessageBox.Show("invalid input");
+                e.Cancel = true;
+
+            }
+        }
+
+        private void textBox4_Validating(object sender, CancelEventArgs e)
+        {
+            if (String.IsNullOrWhiteSpace(textBox4.Text))
+            {
+                MessageBox.Show("invalid input");
+                e.Cancel = true;
+
+            }
+        }
+
+        private void textBox5_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+        }
+
+        private void textBox6_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+        }
+
+        private void textBox7_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+        }
+
+        private void textBox8_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b') return;
+            if (e.KeyChar == '\r')
+                SendKeys.Send("{TAB}");
+        }
        
     }
 }
